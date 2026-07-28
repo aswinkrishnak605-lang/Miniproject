@@ -1,10 +1,4 @@
-/**
- * ExamShield – OCR-Based Identity Verification System
- * Entry Point: server.js
- * ---------------------------------------------------------
- * Initializes Express, connects to MongoDB, and registers
- * all application routes with middleware.
- */
+
 
 const express = require("express");
 const cors = require("cors");
