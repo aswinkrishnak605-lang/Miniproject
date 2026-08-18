@@ -1,5 +1,5 @@
 /**
- * pages/Dashboard.jsx
+  * pages/Dashboard.jsx
  * ═══════════════════════════════════════════════════════════════
  * WHAT THIS FILE DOES:
  *   Renders the core workspace page after logging in.
